@@ -1,5 +1,7 @@
 This is a project for own ERC20 Token, currenly deployed on SEPOLIA testnet and contract address is as below :
+```
 0xC54D08C80e563d0c39610d8Ad81b05fC79dADd2e
+```
 
 Token has below properties :
 1. Capped with 100000000 NMT.
